@@ -1,6 +1,6 @@
-# fidge_app_example
+# fridge_app_example
 
-A fidge food manager app connected to gemini
+A fridge food manager app connected to gemini
 
 ## Getting Started
 
